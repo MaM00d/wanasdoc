@@ -4,13 +4,15 @@
 \documentclass[11pt]{report} 
 \let\cleardoublepage\clearpage
 
+\tracinglostchars=3 % Make it an error if a glyph is missing from the current font
 % \cleardoubleoddpage
 \usepackage{projectreport}
 \usepackage{tikz}
 \usetikzlibrary{shapes, arrows, positioning}
 % ------------------------------------------------------------------------------
+
 % Enter your details here
-% ------------------------------------------------------------------------------
+% ----------------------------------------------a;sdlkfj--------------------------------
 \usepackage{xcolor}  
 % \usepackage{Arial}
 % \usepackage[T1]{fontenc}
@@ -23,12 +25,17 @@
 \newcommand{\projecttitle}{Wanas}
 \newcommand{\submissiondate}{December 2023}
 \usepackage{svg}
+\usetikzlibrary{shapes.geometric, arrows.meta,automata}
+\usepackage{forest}
+
+
 
 % ------------------------------------------------------------------------------
 % Document
 % ------------------------------------------------------------------------------
 \begin{document}
 
+% \tikz[remember picture,overlay] \node[opacity=0.3,inner sep=0pt] at (current page.center){\includegraphics[width=\paperwidth,height=\paperheight]{bg}};
 
 
     \maketitle
@@ -45,7 +52,7 @@ Wanas team\\
 ECU\\
 2023
 \tableofcontents 
-% \listoffigures
+\listoffigures
 % \listoftables
 % \lstlistoflistings		% comment out if not needed
 
@@ -59,10 +66,10 @@ ECU\\
 \include{chapter1}
 \include{chapter2} 
 \include{chapter3} 
-\include{chapter4} 
+% \include{chapter4} 
 \include{chapter5} 
-\include{chapter6} 
-\include{chapter7} 
+% \include{chapter6} 
+% \include{chapter7} 
 % ------------------------------------------------------------------------------
 % Reference list
 % ------------------------------------------------------------------------------
@@ -78,6 +85,9 @@ ECU\\
 % ------------------------------------------------------------------------------
 % Appendices
 % ------------------------------------------------------------------------------
+
+
+
 \include{appendix}
 
 \end{document}

@@ -1,0 +1,14 @@
+11 Jun 2024 08:41:29.709 INFO  - 
+Welcome to arara 7.1.3!
+-----------------------------------------------------------------
+11 Jun 2024 08:41:29.712 DEBUG - 
+::: arara @ /usr/share/texmf-dist/scripts/arara
+::: Java 22, N/A
+::: /usr/lib/jvm/java-22-openjdk
+::: Linux, amd64, 6.9.3-arch1-1
+::: user.home @ /home/me
+::: CF @ [none]
+-----------------------------------------------------------------
+11 Jun 2024 08:41:29.719 INFO  - Processing "first.tex" (size: 4.7 kB, last modified: 2024-06-11 05:41:24), please wait.
+11 Jun 2024 08:41:29.730 ERROR - It looks like no directives were found in the provided file. Make sure to include at least one directive and try again.
+11 Jun 2024 08:41:29.732 INFO  - Total: 0.213 seconds

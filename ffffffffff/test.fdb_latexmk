@@ -1,0 +1,26 @@
+# Fdb version 4
+["xdvipdfmx"] 1718088232.33774 "test.xdv" "test.pdf" "test" 1718088232.49215 0
+  "test.xdv" 1718088232.29133 504 630600d2757c98138310a775ba78bbe0 "xelatex"
+  (generated)
+  "test.pdf"
+  (rewritten before read)
+["xelatex"] 1718088231.88708 "test.tex" "test.xdv" "test" 1718088232.49183 0
+  "/usr/share/texmf-dist/tex/latex/base/article.cls" 1716849630 20144 147463a6a579f4597269ef9565205cfe ""
+  "/usr/share/texmf-dist/tex/latex/base/fontenc.sty" 1716849630 5119 a04a8b68ab4f6ce800a41f7f8012a10e ""
+  "/usr/share/texmf-dist/tex/latex/base/size10.clo" 1716849630 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
+  "/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd" 1716849630 2430 fce77d7e103eb98b6c4d486ae1d466c0 ""
+  "/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty" 1716849630 163194 e97577b0d79d363e11289d4e27baa8a4 ""
+  "/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg" 1716849630 549 c4adac819276241fea8eb79c5ab7b99e ""
+  "/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty" 1716849630 3484 ff877041166391bc5ca8a1e45614784e ""
+  "/usr/share/texmf-dist/tex/latex/l3backend/l3backend-xetex.def" 1716849630 31815 59e639f95c4a3bc971cad46c02998fac ""
+  "/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty" 1716849630 6565 10e89ed128ccd59431746bbdd82129fc ""
+  "/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1716849630 9327 11bedad2ac38f92e405a38ed18489a03 ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1716849630 41588 b43d3e860a4f94167ee1e725ff526a72 ""
+  "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1718085240 9578984 9b783f5d324a32766aef3462cf3d3fb4 ""
+  "test.aux" 1718088232.29077 32 3985256e7290058c681f74d7a3565a19 "xelatex"
+  "test.tex" 1718088223.39728 154 5d9749337fb92b0720c8160449e3dd47 ""
+  (generated)
+  "test.aux"
+  "test.log"
+  "test.xdv"
+  (rewritten before read)

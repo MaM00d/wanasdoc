@@ -1,0 +1,110 @@
+\contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Brainstorming and Idea Development}{2}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Initial Brainstorming Sessions}{2}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Decision-Making Process}{2}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}Inspiration Behind WANAS}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Introduction to WANAS}{3}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Project Overview}{3}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Purpose and Motivation}{3}{subsection.1.3.2}%
+\contentsline {subsubsection}{Market Needs}{3}{section*.6}%
+\contentsline {subsubsection}{Academic Needs}{3}{section*.7}%
+\contentsline {section}{\numberline {1.4}Understanding the Mental Health Crisis}{4}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Scope of the Problem}{4}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Consequences of Untreated Mental Health Issues}{4}{subsection.1.4.2}%
+\contentsline {chapter}{\numberline {2}Related Work}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Similar Apps}{7}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Talkspace}{7}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Woebot}{8}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Wysa}{8}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Functionality}{8}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Wysa}{8}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Woebot}{9}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Talkspace}{10}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}Idea Inspiration}{11}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Comparison}{11}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Dependencies}{11}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Technical Related Work}{13}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Relevant Research Studies}{13}{section.2.8}%
+\contentsline {chapter}{\numberline {3} Analysis And Design}{15}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Functional Requirements}{15}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Login and Register}{15}{subsection.3.1.1}%
+\contentsline {paragraph}{User Registration}{15}{section*.10}%
+\contentsline {paragraph}{User Login}{16}{section*.11}%
+\contentsline {subsection}{\numberline {3.1.2}Chat with AI}{16}{subsection.3.1.2}%
+\contentsline {paragraph}{Users can :}{16}{section*.13}%
+\contentsline {subsection}{\numberline {3.1.3}Persona List}{17}{subsection.3.1.3}%
+\contentsline {paragraph}{Users can:}{17}{section*.14}%
+\contentsline {subsection}{\numberline {3.1.4}Chat List}{17}{subsection.3.1.4}%
+\contentsline {paragraph}{Users can:}{17}{section*.15}%
+\contentsline {subsection}{\numberline {3.1.5}Previous Conversations}{17}{subsection.3.1.5}%
+\contentsline {paragraph}{Users can:}{17}{section*.16}%
+\contentsline {subsection}{\numberline {3.1.6}Positive Card}{18}{subsection.3.1.6}%
+\contentsline {paragraph}{Functionality of the Positive Card}{18}{section*.17}%
+\contentsline {subsection}{\numberline {3.1.7}Mood Tracker}{18}{subsection.3.1.7}%
+\contentsline {paragraph}{Users can:}{18}{section*.18}%
+\contentsline {section}{\numberline {3.2}Non-Functional Requirements}{18}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Security and Privacy}{18}{subsection.3.2.1}%
+\contentsline {paragraph}{Data Protection}{19}{section*.19}%
+\contentsline {subsection}{\numberline {3.2.2}Speak Comfortably}{19}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Speed Of Response}{19}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Usability and User Experience}{19}{subsection.3.2.4}%
+\contentsline {paragraph}{User-Centric Design}{19}{section*.20}%
+\contentsline {section}{\numberline {3.3}Implementation Strategies}{19}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Cross-Platform Development with Flutter}{20}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Advantages of Flutter}{20}{subsection.3.3.2}%
+\contentsline {paragraph}{Broader Accessibility}{20}{section*.21}%
+\contentsline {paragraph}{Consistent User Experience}{20}{section*.22}%
+\contentsline {paragraph}{Cost-Efficiency}{20}{section*.23}%
+\contentsline {paragraph}{Faster Time-to-Market}{20}{section*.24}%
+\contentsline {paragraph}{Simplified Testing}{21}{section*.25}%
+\contentsline {subsection}{\numberline {3.3.3}programming languages}{21}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Server-Side Programming with Go}{21}{subsection.3.3.4}%
+\contentsline {paragraph}{Efficiency and Performance:}{21}{section*.26}%
+\contentsline {paragraph}{Concurrency Support:}{21}{section*.27}%
+\contentsline {paragraph}{Scalability:}{21}{section*.28}%
+\contentsline {subsection}{\numberline {3.3.5}AI and Machine Learning with Python}{21}{subsection.3.3.5}%
+\contentsline {paragraph}{Extensive Libraries:}{21}{section*.29}%
+\contentsline {paragraph}{Ease of Integration:}{21}{section*.30}%
+\contentsline {section}{\numberline {3.4}System analysis through formal diagrams }{22}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Wireframe}{22}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Use Case Diagram }{23}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Activity Diagram }{24}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Sequence Diagram }{25}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}Class Diagram }{26}{subsection.3.4.5}%
+\contentsline {chapter}{\numberline {4}AI}{28}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Retrieval augmented generation (RAG)}{28}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Selecting Documents}{28}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Chunking}{29}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Similarity Search}{30}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}embedding in the prompt}{30}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.1.5}Introduction}{30}{subsection.4.1.5}%
+\contentsline {subsection}{\numberline {4.1.6}Selecting Dataset}{31}{subsection.4.1.6}%
+\contentsline {subsection}{\numberline {4.1.7}Preprocessing}{31}{subsection.4.1.7}%
+\contentsline {section}{\numberline {4.2}Data Splitting}{33}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Selecting Model}{34}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Fine-Tuning}{34}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Training}{34}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Result}{35}{section.4.6}%
+\contentsline {section}{\numberline {4.7}LoRA and Q-LoRA}{35}{section.4.7}%
+\contentsline {section}{\numberline {4.8}LoRA}{35}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Q-LoRA}{36}{section.4.9}%
+\contentsline {section}{\numberline {4.10}GPU Usage}{36}{section.4.10}%
+\contentsline {section}{\numberline {4.11}Without Q-LoRA}{36}{section.4.11}%
+\contentsline {section}{\numberline {4.12}With Q-LoRA}{37}{section.4.12}%
+\contentsline {section}{\numberline {4.13}Simple Example}{37}{section.4.13}%
+\contentsline {section}{\numberline {4.14}Training Process}{37}{section.4.14}%
+\contentsline {section}{\numberline {4.15}Detail on Each Step}{38}{section.4.15}%
+\contentsline {section}{\numberline {4.16}Dataset}{38}{section.4.16}%
+\contentsline {section}{\numberline {4.17}Introduction}{38}{section.4.17}%
+\contentsline {section}{\numberline {4.18}Emotion Classification Model For Emotion Detection}{38}{section.4.18}%
+\contentsline {subsection}{\numberline {4.18.1}Preprocessing}{38}{subsection.4.18.1}%
+\contentsline {subsection}{\numberline {4.18.2}Text Separation}{38}{subsection.4.18.2}%
+\contentsline {subsection}{\numberline {4.18.3}Detailed Processing}{39}{subsection.4.18.3}%
+\contentsline {subsection}{\numberline {4.18.4}New DataFrame Creation}{39}{subsection.4.18.4}%
+\contentsline {subsection}{\numberline {4.18.5}Saving and Loading the Dataset}{39}{subsection.4.18.5}%
+\contentsline {section}{\numberline {4.19}Why Choosing GPT?}{39}{section.4.19}%
+\contentsline {section}{\numberline {4.20}Model Selection}{40}{section.4.20}%
+\contentsline {subsection}{\numberline {4.20.1}First Try: AceGPT7B}{40}{subsection.4.20.1}%
+\contentsline {subsection}{\numberline {4.20.2}Second Try: AceGPT13B-Chat}{40}{subsection.4.20.2}%
+\contentsline {section}{\numberline {4.21}Final Model Choice}{40}{section.4.21}%
